@@ -77,6 +77,8 @@ C:\Users\jack\Desktop\ProjEulerC-\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.
 C:\Users\jack\Desktop\ProjEulerC-\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\jack\Desktop\ProjEulerC-\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\jack\Desktop\ProjEulerC-\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\jack\Desktop\ProjEulerC-\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 C:\Users\jack\Desktop\ProjEulerC-\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\jack\Desktop\ProjEulerC-\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\jack\Desktop\ProjEulerC-\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.initial.resources
+C:\Users\jack\Desktop\ProjEulerC-\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\jack\Desktop\ProjEulerC-\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
